@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
 
             save_Btn.setVisibility(View.INVISIBLE);
             cha_Btn.setVisibility(View.VISIBLE);
-            del_Btn.setVisibility(View.VISIBLE);
+            del_Btn.setVisibility(View.VISIBLE); // 안녕하세요
 
             cha_Btn.setOnClickListener(new View.OnClickListener()
             {
